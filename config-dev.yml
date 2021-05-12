@@ -1,5 +1,5 @@
 config:
-  info: http://eureka7001.com:7001/eureka/
+  info: "master springcloud-config-dev version =1"
   
   
   
